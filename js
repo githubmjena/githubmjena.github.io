@@ -21,7 +21,7 @@
         <img
           id="avatar_about"
           src="./images/user_avatar.jpg"
-          alt="Subhash"
+          alt="mano.jpg"
           obj
         />
       </div>
