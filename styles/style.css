@@ -45,13 +45,13 @@ body {
   width: 210px;
   height: 210px;
   border-radius: 105px;
-display: flex;
-justify-content: center;
-align-items: center;
-background-color: #fff;
-position: absolute;
-top: 200px;
-left: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  position: absolute;
+  top: 200px;
+  left: 60px;
 }
 #avatar {
   width: 200px;
@@ -75,15 +75,7 @@ left: 60px;
 .right_pane {
   width: 70%;
   height: 250px;
-background-color: #fff;
-border: 1px solid #e6ecf0;
-border-radius: 7px;
-padding: 16px;
-box-sizing: border-box;
-font-size: 14px;
-line-height: 20px;
-font-weight: normal;
-color: #212121;
+ 
 }
 .name {
   font-size: 21px;
